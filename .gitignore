@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs and temp
+*.log
+*.tmp
+
+# Local exports from the tool (don't commit personal records)
+aseptica-log.csv
+aseptica-log.json
+
+# Node (only if you later add a build step)
+node_modules/
+dist/
