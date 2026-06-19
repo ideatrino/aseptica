@@ -29,7 +29,7 @@ It won't replace a validated system where regulations demand one. It's built for
 
 Open `index.html` in any modern browser. That's the whole install.
 
-To put it online for free, enable **GitHub Pages** on this repository (Settings → Pages → deploy from the `main` branch). Your tool will be live at `https://<your-username>.github.io/aseptica/`.
+
 
 ## The math, briefly
 
